@@ -36,7 +36,7 @@
    <h1> Thankyou </h1>
    <h1> Happy Learning  </h1>
    <h1> Good Luck  </h1>
-   
+   <h1> JAI HIND  </h1> 
 
 
 </form>
