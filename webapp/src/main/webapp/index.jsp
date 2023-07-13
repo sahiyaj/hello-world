@@ -32,10 +32,10 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Great Course ,Thankyou, Happy Learning</h1>
+   <h1> Happy Learning</h1>
    
    <h1> Good Luck  </h1>
    
-
+   <h1> Thanks For the Course</h1>
 
 </form>
